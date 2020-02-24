@@ -1,0 +1,22 @@
+{
+  "name": "zidonghua",
+  "version": "1.0.0",
+  "description": "自动化构建gitbook",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/liujingjingg/zidonghua.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/liujingjingg/zidonghua/issues"
+  },
+  "homepage": "https://github.com/liujingjingg/zidonghua#readme",
+  "devDependencies": {
+    "gitbook-cli": "^2.3.2"
+  }
+}
