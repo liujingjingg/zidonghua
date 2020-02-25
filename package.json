@@ -1,0 +1,22 @@
+{
+  "name": "novalwork",
+  "version": "1.0.0",
+  "description": "金庸小说简介全集",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/liujingjingg/novalwork.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/liujingjingg/novalwork/issues"
+  },
+  "homepage": "https://github.com/liujingjingg/novalwork#readme",
+  "devDependencies": {
+    "gitbook-cli": "^2.3.2"
+  }
+}
